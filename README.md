@@ -1,1 +1,1 @@
-# blog_app
+# This project is to practice how to develop a blog app using Ruby on rails
